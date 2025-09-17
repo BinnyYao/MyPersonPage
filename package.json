@@ -4,6 +4,7 @@
   "private": true,
   "description": "个人简历单页面应用（React）",
   "main": "src/index.js",
+  "homepage": "http://person.blovedream.com/public/index.html",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build"
